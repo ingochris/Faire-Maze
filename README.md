@@ -1,2 +1,2 @@
 # Faire-Maze
-For the MESA Goldberg Machine
+For the MESA Goldberg Machine.
